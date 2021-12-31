@@ -1,0 +1,22 @@
+{
+  "name": "boardgamerandomizer",
+  "version": "1.0.0",
+  "description": "Randomizes board games from BGG user collection based on number of players input",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliyaZar/BoardgameRandomizer.git"
+  },
+  "author": "Yuliya Zaretskaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YuliyaZar/BoardgameRandomizer/issues"
+  },
+  "homepage": "https://github.com/YuliyaZar/BoardgameRandomizer#readme",
+  "dependencies": {
+    "bgg-xml-api-client": "^0.1.8"
+  }
+}
